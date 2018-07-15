@@ -1,10 +1,4 @@
 
-## Overview
-
-This is the code for [this](https://youtu.be/-_Qs0XdPpw8) video on Youtube by Siraj Raval on Ethereum. We'll build a simple Ethereum smart contract and lightwallet example. Any problems running the code? See the [issues
-](https://github.com/eshon/conference/issues) section.
-
-
 ### Updates
 
 Current code uses *Truffle v2.0.4*
@@ -41,9 +35,3 @@ $ truffle migrate
 $ truffle test
 $ truffle serve // server at localhost:8080
 ```
-
-
-## Credits
-
-Credits for this code go to [eshon](https://github.com/eshon). I've merely created a wrapper to get people started. 
-
